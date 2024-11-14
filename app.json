@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Alumni",
-    "slug": "Alumni",
-    "scheme":"Alumni",
+    "name": "Mythical Realms",
+    "slug": "Mythical Realms",
+    "scheme":"Mythical Realms",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
