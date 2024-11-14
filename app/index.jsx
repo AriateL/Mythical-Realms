@@ -5,7 +5,7 @@ import { Link } from 'expo-router';
 export default function App() {
   return (
     <View className="flex-1 items-center justify-center bg-slate-500">
-      <Text className="text-3xl font-u_regular">Welcome, Alumni</Text>
+      <Text className="text-3xl font-u_regular">Welcome, Mythical Realms</Text>
         <Link href="/profile">Go to my Profile</Link>
       <StatusBar style="auto" />
     </View>
